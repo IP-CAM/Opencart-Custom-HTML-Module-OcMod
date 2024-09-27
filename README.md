@@ -4,7 +4,7 @@
 This module allows you to add custom HTML content to your OpenCart store. It supports versions 2 and 3 of OpenCart. Configuration is done via the `System -> Settings -> Store` tab under `Custom HTML`. You can choose to install the module on specific layouts and in various positions such as content bottom, content top, column right, and column left.
 
 ## ✨ Features
-- Supports OpenCart versions 2.x и 3.x
+- Supports OpenCart versions 2.x (custom-html-oc-2) и 3.x (custom-html-oc-3)
 - Add custom HTML content
 - Configuration via `System -> Settings -> Store` tab
 - Multiple positions: content bottom, content top, column right, column left
@@ -33,7 +33,7 @@ This module allows you to add custom HTML content to your OpenCart store. It sup
 Этот модуль позволяет добавлять пользовательский HTML-контент на ваш сайт OpenCart. Поддерживаются версии 2 и 3 OpenCart. Настройка происходит через вкладку `System -> Settings -> Store` в табе `Custom HTML`. Вы можете выбрать установку модуля на определенные макеты и в различные позиции, такие как content bottom, content top, column right и column left.
 
 ## ✨ Особенности
-- Поддержка версий OpenCart 2.x и 3.x
+- Поддержка версий OpenCart 2.x (custom-html-oc-2) и 3.x (custom-html-oc-3)
 - Добавление пользовательского HTML-контента
 - Настройка через вкладку `System -> Settings -> Store`
 - Несколько позиций: content bottom, content top, column right, column left
